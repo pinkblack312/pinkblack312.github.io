@@ -1,4 +1,4 @@
-# Welcome to my portfolio
+# Welcome to my Portfolio
 ## Game 
 
 
